@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav {
+    min-height: 100px;
+    background-color: black;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+.feed {
+    height: 70px;
+    width: 70%;
+    margin: 0 auto;
+    background-color: transparent;
+    padding: 10px;
+    text-align: center;
+}
+h1 {
+    padding: 30px;
+}
+.avatar {
+    height: 400px;
+    width: 300px;
+    background-color: transparent;
+    justify-content: flex;
+    margin: 5px 300px;
+    border: black solid 3px;
+}
+.img {
+    width: 100px;
+    border-radius: 50%;
+    margin: 30px 100px;
+    border: black solid 3px;
+}
+a {
+    color: rgb(0, 174, 255);
+}
+.name {
+text-align: center;
+    line-height: 80px;
+    font-size: large;
+}
+.title {
+    display: flex;
+    justify-content: space-around;
+}
+.Neil {
+    width: 700px;
+    height: 250px;
+    background-color: transparent;
+    position: relative;
+    right: -200%;
+    top:-250px;
+    border: black solid 3px;
+}
+.Nichole {
+    width: 700px;
+    height: 250px;
+    background-color: transparent;
+    position: relative;
+    right: -200%;
+    top:-250px;
+    margin-top: 20px;
+    border: black solid 3px;
+}
+.Jim {
+    width: 700px;
+    height: 250px;
+    background-color: transparent;
+    position: relative;
+    right: -200%;
+    top:-250px;
+    margin-top: 20px;
+    border: black solid 3px;
+}
+.btn {
+    width: 80px;
+    height: 50px;
+    margin-top: 10px;
+    background-color: gold;
+    font-weight: bolder;
+    box-shadow: black 5px 5px;
+}
+p {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
